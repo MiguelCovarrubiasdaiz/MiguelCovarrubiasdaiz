@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-miguel-cova.netlify.app/)
-[![TikTok](https://img.shields.io/badge/@devbymike-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devbymike)
 [![PRism](https://img.shields.io/badge/PRism-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://www.prismgit.com/)
 
 </div>
@@ -20,7 +19,6 @@
 - 🏗️ Specialized in **clean architectures** (Hexagonal, Feature-Sliced Design), legacy system modernization, and secure multi-tenant cloud infrastructure.
 - 🎯 Driven technical direction for complex products in **streaming, fintech, and healthcare**, leading engineering teams.
 - 🤖 Leverage **AI tooling** (Claude Code, Gemini, Ollama) to accelerate software delivery cycles.
-- 📱 I create educational programming content in Spanish on TikTok as **[@devbymike](https://www.tiktok.com/@devbymike)**.
 
 ---
 
@@ -162,6 +160,6 @@ Boilerplates and resources I maintain. *(Excludes several enterprise projects, S
 Open to collaborations, consulting, and interesting opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
-[![TikTok](https://img.shields.io/badge/Follow_on_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devbymike)
+
 
 </div>
