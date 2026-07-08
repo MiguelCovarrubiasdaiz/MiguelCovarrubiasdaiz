@@ -7,7 +7,6 @@
 *From startup MVPs to national-scale enterprise platforms — streaming, fintech, and healthcare.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-miguel-cova.netlify.app/)
 [![PRism](https://img.shields.io/badge/PRism-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://www.prismgit.com/)
 
 </div>
