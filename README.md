@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hola, soy Miguel Covarrubias 👋
+# Hi, I'm Miguel Covarrubias 👋
 
-### Full Stack Engineer · 8+ años construyendo software escalable
+### Full Stack Engineer · 8+ years building scalable software
 
-*De MVPs de startup a plataformas enterprise de escala nacional — streaming, fintech y healthcare.*
+*From startup MVPs to national-scale enterprise platforms — streaming, fintech, and healthcare.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-miguel-cova.netlify.app/)
@@ -15,16 +15,16 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-- 🏗️ Especializado en **arquitecturas limpias** (Hexagonal, Feature-Sliced Design), modernización de sistemas legacy e infraestructura cloud multi-tenant segura.
-- 🎯 He liderado la dirección técnica de productos complejos en **streaming, fintech y healthcare**, dirigiendo equipos de ingeniería.
-- 🤖 Integro **herramientas de IA** (Claude Code, Gemini, Ollama) para acelerar ciclos de entrega de software.
-- 📱 Creo contenido educativo de programación en español en TikTok como **[@devbymike](https://www.tiktok.com/@devbymike)**.
+- 🏗️ Specialized in **clean architectures** (Hexagonal, Feature-Sliced Design), legacy system modernization, and secure multi-tenant cloud infrastructure.
+- 🎯 Driven technical direction for complex products in **streaming, fintech, and healthcare**, leading engineering teams.
+- 🤖 Leverage **AI tooling** (Claude Code, Gemini, Ollama) to accelerate software delivery cycles.
+- 📱 I create educational programming content in Spanish on TikTok as **[@devbymike](https://www.tiktok.com/@devbymike)**.
 
 ---
 
-## 🚀 Proyecto destacado: PRism
+## 🚀 Featured Project: PRism
 
 <table>
 <tr>
@@ -32,12 +32,12 @@
 
 ### [PRism — AI Code Reviews for GitHub](https://www.prismgit.com/)
 
-SaaS que revisa cada Pull Request con IA usando **todo tu repo como contexto (RAG)** y comenta inline, directo en GitHub.
+SaaS that reviews every Pull Request with AI, using **your entire repo as context (RAG)**, and comments inline — right on GitHub.
 
-- 🧠 **Multi-modelo** — Claude, Gemini y OpenAI en un mismo flujo
-- 🔐 **BYOK** — tus API keys cifradas con AES-256-GCM
-- 📏 **Reglas versionadas** — lineamientos en `.github/review-rules.md` con audit trail
-- 💬 **Conversacional** — menciona `@prism` en cualquier hilo del PR
+- 🧠 **Multi-model** — Claude, Gemini, and OpenAI in a single workflow
+- 🔐 **BYOK** — your API keys, encrypted with AES-256-GCM
+- 📏 **Versioned rules** — guidelines live in `.github/review-rules.md` with an audit trail
+- 💬 **Conversational** — mention `@prism` in any PR thread
 
 </td>
 <td width="30%" align="center">
@@ -48,7 +48,7 @@ Next.js · NestJS<br>
 PostgreSQL · RAG/Embeddings<br>
 GitHub Apps API
 
-[![Try it](https://img.shields.io/badge/prismgit.com-Visitar-6C5CE7?style=for-the-badge)](https://www.prismgit.com/)
+[![Try it](https://img.shields.io/badge/prismgit.com-Visit-6C5CE7?style=for-the-badge)](https://www.prismgit.com/)
 
 </td>
 </tr>
@@ -56,9 +56,9 @@ GitHub Apps API
 
 ---
 
-## 📂 Open Source & Arquitectura
+## 📂 Open Source & Architecture
 
-Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y apps móviles bajo NDA.)*
+Boilerplates and resources I maintain. *(Excludes several enterprise projects, SaaS platforms, and mobile apps under NDA.)*
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y 
 
 </div>
 
-> 🧪 **[devbymike-js-interview-lab](https://github.com/MiguelCovarrubiasdaiz/devbymike-js-interview-lab)** — Lab gratuito para practicar preguntas reales de entrevistas técnicas de JavaScript, retos y mock interviews.
+> 🧪 **[devbymike-js-interview-lab](https://github.com/MiguelCovarrubiasdaiz/devbymike-js-interview-lab)** — Free lab to practice real JavaScript technical interview questions, challenges, and mock interviews.
 
 ---
 
@@ -79,7 +79,7 @@ Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y 
 <tr>
 <td valign="top" width="50%">
 
-**Lenguajes**
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -119,7 +119,7 @@ Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![BunnyCDN](https://img.shields.io/badge/BunnyCDN-FFB200?style=flat-square)
 
-**Arquitectura & DevOps**
+**Architecture & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -148,7 +148,7 @@ Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelCovarrubiasdaiz&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelCovarrubiasdaiz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCovarrubiasdaiz&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top languages" />
 
 </div>
@@ -157,11 +157,11 @@ Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y 
 
 <div align="center">
 
-### 💬 ¿Hablamos?
+### 💬 Let's Connect
 
-Abierto a colaboraciones, consultoría y oportunidades interesantes.
+Open to collaborations, consulting, and interesting opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
-[![TikTok](https://img.shields.io/badge/Sígueme_en_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devbymike)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
+[![TikTok](https://img.shields.io/badge/Follow_on_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devbymike)
 
 </div>
