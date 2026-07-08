@@ -148,7 +148,7 @@ Boilerplates and resources I maintain. *(Excludes several enterprise projects, S
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelCovarrubiasdaiz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelCovarrubiasdaiz&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCovarrubiasdaiz&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top languages" />
 
 </div>
