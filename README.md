@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-miguel-cova.netlify.app/)
+[![TikTok](https://img.shields.io/badge/@devbymike-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devbymike)
 [![PRism](https://img.shields.io/badge/PRism-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://www.prismgit.com/)
 
 </div>
@@ -61,10 +62,10 @@ Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y 
 
 <div align="center">
 
-[![JS Interview Lab](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCovarrubiasdaiz&repo=devbymike-js-interview-lab&theme=radical&hide_border=true)](https://github.com/MiguelCovarrubiasdaiz/devbymike-js-interview-lab)
-[![Nest Structure](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCovarrubiasdaiz&repo=nest-structure&theme=radical&hide_border=true)](https://github.com/MiguelCovarrubiasdaiz/nest-structure)
-[![Next Structure](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCovarrubiasdaiz&repo=next-structure&theme=radical&hide_border=true)](https://github.com/MiguelCovarrubiasdaiz/next-structure)
-[![React Structure](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCovarrubiasdaiz&repo=react-structure&theme=radical&hide_border=true)](https://github.com/MiguelCovarrubiasdaiz/react-structure)
+[![JS Interview Lab](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCovarrubiasdaiz&repo=devbymike-js-interview-lab&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/MiguelCovarrubiasdaiz/devbymike-js-interview-lab)
+[![Nest Structure](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCovarrubiasdaiz&repo=nest-structure&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/MiguelCovarrubiasdaiz/nest-structure)
+[![Next Structure](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCovarrubiasdaiz&repo=next-structure&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/MiguelCovarrubiasdaiz/next-structure)
+[![React Structure](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCovarrubiasdaiz&repo=react-structure&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/MiguelCovarrubiasdaiz/react-structure)
 
 </div>
 
@@ -147,8 +148,8 @@ Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelCovarrubiasdaiz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCovarrubiasdaiz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelCovarrubiasdaiz&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCovarrubiasdaiz&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top languages" />
 
 </div>
 
@@ -161,5 +162,6 @@ Boilerplates y recursos que mantengo. *(No incluye proyectos enterprise, SaaS y 
 Abierto a colaboraciones, consultoría y oportunidades interesantes.
 
 [![LinkedIn](https://img.shields.io/badge/Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
+[![TikTok](https://img.shields.io/badge/Sígueme_en_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devbymike)
 
 </div>
