@@ -8,8 +8,6 @@
 *From startup MVPs to national-scale enterprise platforms — streaming, fintech, and healthcare.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-covarrubias-diaz-1027a6170)
-[![TikTok](https://img.shields.io/badge/TikTok_@devbymike-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devbymike)
-[![YouTube](https://img.shields.io/badge/YouTube_@devbymike-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devbymike)
 
 </div>
 
